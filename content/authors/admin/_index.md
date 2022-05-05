@@ -10,7 +10,7 @@ role: Master student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Harbin Institue of Technology,
+  - name: Harbin Institue of Technology
     url: https://www.hit.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
@@ -25,9 +25,6 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
     - course: MSc in Mechanical Engineering
       institution: Harbin Institute of Technology
       year: 2021
