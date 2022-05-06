@@ -25,10 +25,10 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: MSc in Mechanical Engineering
+    - course: MEng in Mechanical Engineering
       institution: Harbin Institute of Technology
       year: 2021
-    - course: BSc in Mechanical Engineering
+    - course: BEng in Mechanical Engineering
       institution: Harbin Engineering University
       year: 2017
 
@@ -42,13 +42,8 @@ social:
     link: '/#contact'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/JACK21330798
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/
@@ -67,8 +62,8 @@ email: ''
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Space is a places full of wonders, and looking up to see them is a dream to me. When I was a small child, I would read books that teach me about the stars up there and rockets help us to see them. And I know that this is my passion and the thing I will do in the future.Although I find great joy about almosy everything related to space exploration, spacecrafts like rockts and satellites are my favourite, since they are useful tools for us to reach the sky. And after some hard study, I finally get in space related field and could do some work.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I'm currently a master student of Center for Composite Metrials and Structures(CCMS),Harbin Institute of Technology. My research now focuses on design,optimization of "composite liquid rocket engine frame" and "service module frame"(for space capsule).
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
